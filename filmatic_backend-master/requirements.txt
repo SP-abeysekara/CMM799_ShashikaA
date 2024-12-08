@@ -1,0 +1,10 @@
+fastapi
+joblib
+motor
+pandas
+nltk
+pydantic
+pymongo
+python-dotenv
+scikit_learn
+uvicorn
